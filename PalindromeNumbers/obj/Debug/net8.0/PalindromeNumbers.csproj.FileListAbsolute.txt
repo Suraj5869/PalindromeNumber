@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\bin\Debug\net8.0\PalindromeNumbers.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\bin\Debug\net8.0\PalindromeNumbers.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\bin\Debug\net8.0\PalindromeNumbers.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\bin\Debug\net8.0\PalindromeNumbers.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\bin\Debug\net8.0\PalindromeNumbers.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\refint\PalindromeNumbers.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\PalindromeNumbers.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PalindromeNumbers\PalindromeNumbers\obj\Debug\net8.0\ref\PalindromeNumbers.dll
