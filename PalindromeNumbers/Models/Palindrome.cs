@@ -13,13 +13,15 @@ namespace PalindromeNumbers.Models
             int divisor = 10;
             int temp = number;
             int reverseNumber = 0;
+            int min = 0;
+            int multiple = 10;
 
             //reverse the number
-            while (temp > 0)
+            while (temp > min)
             {
                 int digit = temp % divisor;
                 temp /= divisor;
-                reverseNumber = reverseNumber * 10 + digit;
+                reverseNumber = reverseNumber * multiple + digit;
             }
 
             //Check the reverse number is equal to original number
